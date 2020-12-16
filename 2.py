@@ -1,6 +1,6 @@
 import collections
 
-file = open('input2.txt','r')
+file = open('Inputs/input2.txt','r')
 input = file.readlines()
 
 timesx = []
